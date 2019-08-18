@@ -6,7 +6,13 @@
 
 > ## Prerequisites
 
-Basic Vue.js app knowledge and an internet connection
+- Basic Vue.js knowledge
+- VSCode
+- VSCode Extensions
+  - Vetur
+  - Vue VSCode Snippets
+  - Ionic 4 Snippets
+- An internet connection
 
 > ## About
 
@@ -28,6 +34,14 @@ Basic Vue.js app knowledge and an internet connection
 
 > ## Project setup
 
+Install VSCode Extensions
+
+```
+code --install-extension octref.vetur
+code --install-extension sdras.vue-vscode-snippets
+code --install-extension fivethree.vscode-ionic-snippets
+```
+
 Install Vue CLI
 
 ```
@@ -45,9 +59,12 @@ _A flexible, easy-to-learn javascript framework used to build scalable frontend 
 ### What is Ionic?
 
 _A javascript framework through which you arrange your Vue.js components so that it can be used on mobile_
- ‍
+‍
+
 ### What is an JSON?
+
 _Javascript Object Notation. It's an easy-to-use multi-dimensional array that stores different data types_
 
 ### What is an API?
+
 _Application Program Interface. Retrieves information asynchronously (i.e. without reloading the page) from websites and web services_
